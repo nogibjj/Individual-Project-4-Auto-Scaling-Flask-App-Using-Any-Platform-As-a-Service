@@ -1,4 +1,4 @@
-
+[![CI](https://github.com/nogibjj/Individual-Project-4-Auto-Scaling-Flask-App-Using-Any-Platform-As-a-Service/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Individual-Project-4-Auto-Scaling-Flask-App-Using-Any-Platform-As-a-Service/actions/workflows/cicd.yml)
 # IDS 706 Data Engineering Individual Project 4
 
 
