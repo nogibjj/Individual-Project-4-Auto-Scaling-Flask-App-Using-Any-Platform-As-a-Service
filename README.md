@@ -3,7 +3,7 @@
 
 
 ## Website & Video explanation
-[premier league introduction](https://intropremierleague.azurewebsites.net/)<br />[Video explanation]()
+[premier league introduction](https://intropremierleague.azurewebsites.net/)<br />[Video explanation](https://youtu.be/_tQ7y1ZIzrs)
 
 ## Purpose of the project
 
